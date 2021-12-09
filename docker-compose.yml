@@ -1,0 +1,7 @@
+version: "3.0"
+services:
+  game:
+    image: "dow21/2048"
+    build: .
+    ports:
+      - "80:80"
