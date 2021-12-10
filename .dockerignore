@@ -1,5 +1,6 @@
 *
 .*
+!nginx-default.conf
 !2048/index.html
 !2048/style/
 !2048/js/
